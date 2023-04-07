@@ -109,7 +109,7 @@ height: 50px;
 
 .nav > .nav-links > a {
   display: inline-block;
-  padding: 13px 10px 13px 250px;
+  padding: 13px 10px 13px 100px;
   text-decoration: none;
   color: #efefef;
 }
